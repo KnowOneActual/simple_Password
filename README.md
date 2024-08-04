@@ -1,5 +1,16 @@
-# simple_Password
+# Simple Password
 
 This Python code for a simple password generator works by creating a list of characters that can be used to generate the password. This list of characters can include uppercase letters, lowercase letters, numbers, symbols, and special symbols.
 
-Once the list of characters has been created, the code generates a random password by randomly selecting characters from the list. The length of the password is determined by the length parameter.
+## Features
+
+- Generate a random password with customizable length and character types.
+- Generate a more complex random password with additional special symbols.
+- Print the generated passwords to the console.
+
+## Usage
+
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/your-username/password-generator.git
